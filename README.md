@@ -5,3 +5,6 @@ Here I will upload data science project using python. For accessing the file you
 
 
 ***dataset used here is news.csv***
+
+# Sceond Project: Real time weather update and dashboard
+Using open weather map api dashboard shows real time weather update 
